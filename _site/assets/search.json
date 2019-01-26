@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "António Rafael Rodriguez Agostinho Neves - Mestre em Psicologia Clínica, iniciou o seu percurso profissional na Clínica Dorial Saúde Mental - Luso, inicialmente como estagiário e depois como Psicólogo Profissional. Exerce atualmente funções de Psicólogo Clínico em Contexto de Internamento e em Consultório Particular. Na sua experiência destaca-se o trabalho realizado na área da depressão, toxicodependência e dependências comportamentais, psicopatologia (moderada a grave), patologia dual, reinserção social, integração/apoio familiar, avaliação e intervenção. Membro efetivo da Ordem dos Psicólogos Portugueses.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Consulta de Psicologia Clínica",
+    "excerpt": "\n",
+    "content": "A consulta de Psicologia tem como propósito auxiliar a pessoa a lidar com as suas dificuldades, sejam estas a nível da sua saúde mental, emocional ou relacional. Através da cooperação entre o profissional e a pessoa que recorre aos seus serviços serão estabelecidos os objetivos terapêuticos com a finalidade de desenvolver competências que promovam formas mais eficazes de lidar com as adversidades.\n\nNa consulta de Psicologia é proporcionado um lugar seguro, onde a pessoa se pode expressar livremente no seio de uma relação de confiança que tem por base a ética profissional.\n",
+    "url": "/"
+  }
+  
+]
+
